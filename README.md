@@ -3,6 +3,9 @@ Repo for SRI
 
 ## How to install 
 
-bueno..bueno...
+Use the command: 
 
-"" vagrant up ""
+```
+$ vagrant up
+
+```
